@@ -1,5 +1,5 @@
-## Team Members: ##
-Tinna Liu(3035729670), Brian Zheng (3035909408), Shiqi Zhang (3035916454), Konjac Huang (3033739258), Jerry Pan (3035788732)
+<!-- ## Team Members: ##
+Tinna Liu(3035729670), Brian Zheng (3035909408), Shiqi Zhang (3035916454), Konjac Huang (3033739258), Jerry Pan (3035788732) -->
 
 ## Functionality: ##
 As early adults, most of us seek to equip ourselves with financial knowledge. Our simple web app uses information from some external APIs to recommend stocks to users based on their personalized needs. 
